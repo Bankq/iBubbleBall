@@ -1,0 +1,22 @@
+### Jazz Ignore 0
+# core.ignore.recursive 的缺省值是 *.class
+# 变更此值将变更整个项目的检入行为。
+#
+# core.ignore 的缺省值是 bin
+# 变更此值将变更本地目录的检入行为。
+#
+# 忽略属性应该包含以空格分隔的文件名模式列表。
+# 每个模式都区分大小写并括在花括号“{”和“}”中。
+# “*”与零个或多个字符匹配，“?”与单个字符匹配。
+#
+#   例如：{*.sh} {\.*} 忽略 shell 脚本和隐藏文件
+
+# 注意：修改忽略文件并不会变更派生的资源的忽略状态。
+
+core.ignore.recursive= \
+	{*.class} 
+
+core.ignore= \
+	{bin} \
+	{level_c7} \
+	{temp.txt} 

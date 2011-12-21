@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="jbox2d.jar"/>
+	<classpathentry kind="lib" path="jinput.jar"/>
+	<classpathentry kind="lib" path="lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="iBubbleBall/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="slick-util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

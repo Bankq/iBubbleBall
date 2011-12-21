@@ -1,0 +1,8 @@
+按钮大小 255*50
+欢迎画面位置：
+(判定区域：左上到右下)
+single player mode         365，240 ->  615，285
+dual player mode                300          345
+designer mode                   360          405 
+how to play                     420          465           
+ 

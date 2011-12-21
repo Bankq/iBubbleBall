@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 29 17:19:07 CST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=iBubbleBallServer.jar
+manifest.mergeall=true
+manifest.mainclass=network.Server
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|iBubbleBall>~resources/;<jar|core.jar>;<jar|jbox2d.jar>;<jar|jinput.jar>;<jar|lwjgl_util.jar>;<jar|lwjgl.jar>;<jar|lwjgl_test.jar>;<jar|PNGDecoder.jar>;<jar|jogg-0.0.7.jar>;<jar|jorbis-0.0.15.jar>;<jar|slick-util.jar>
+includes=
